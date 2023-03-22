@@ -1,0 +1,42 @@
+.searchWrapper{
+    padding: 16px;
+ }
+ .searchBarWrapper{
+     margin-bottom: 8px;
+ }
+ .searchBar {
+     width: 60%;
+ }
+ .searchBar input{
+     padding: 9px;
+     width: 60%;
+ }
+ .searchBar div{
+     border-radius: 0;
+ }
+ .searchButton{
+     text-transform: capitalize;
+     border-radius: 0;
+ }
+ .searchBar label{
+     transform: translate(12px, 11px) scale(1);
+ }
+ .thumbnailImg{
+     margin-right: 16px
+ }
+ .listItemSection{
+     border-bottom: 1px solid #dedede;
+     padding-left: 0 !important;
+     padding-right: 0 !important;
+ }
+ .arrowWrapper {
+    margin-top: 8px;
+    width: 60px;
+    height: 60px;
+ }
+ .headSetIcon {
+    width: 35px;
+    height: 35xp;
+    color: rgb(22, 143, 223);
+ }
+ 
